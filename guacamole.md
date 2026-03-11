@@ -3,5 +3,8 @@
 * avocado
 * lime
 * salt
+* onion
+* tomato
+* chilli
 ## Instructions
 cut avocado
