@@ -1,3 +1,6 @@
 # Pesto recipe
-## ingrediets
+## ingredients
+- oil
+- other things
 ## steps
+- mash
